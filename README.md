@@ -4,14 +4,14 @@
 
 ## 🛠 Technology I Use
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" title="python"  alt="python logo"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" width="52" title="csharp" alt="csharp logo"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="40" width="52" title="java" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" title ="javascript" alt="javascript logo"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="40" width="52" title="nodejs" alt="nodejs logo"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40" width="52" title="reactjs" alt="reactjs logo"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="40" width="52" title="PHP" alt="reactjs logo"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="40" width="52" title="Laravel" alt="laravel logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg" height="40" width="52" title="python"  alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CS.svg" height="40" width="52" title="csharp" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" height="40" width="52" title="java" alt="java logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" height="40" width="52" title ="javascript" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" height="40" width="52" title="nodejs" alt="nodejs logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" height="40" width="52" title="reactjs" alt="reactjs logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Dark.svg" height="40" width="52" title="PHP" alt="php logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" height="40" width="52" title="Laravel" alt="laravel logo"  />
 </div>
 
 ## 🔍 Find me here!
