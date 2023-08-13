@@ -1,4 +1,7 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center">
+  ![Logo Dark](<img width="30%" src="intro-dark.gif" alt="lang image here" />)
+  ![Logo Light](<img width="30%" src="intro-light.gif" alt="lang image here" />)
+</p>
 
 <h4 align="center">I'm sanish 👋.</h4>
 
