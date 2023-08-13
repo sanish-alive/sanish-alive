@@ -1,7 +1,19 @@
+<style>
+    @media (prefers-color-scheme: dark) {
+        #dark-mode-image {
+            display: block;
+        }
+        #light-mode-image {
+            display: none;
+        }
+}
+</style>
+
 <p align="center">
-  ![Logo Dark](<img width="30%" src="intro-dark.gif" alt="lang image here" />)
-  ![Logo Light](<img width="30%" src="intro-light.gif" alt="lang image here" />)
+    <img id="dark-mode-image" width="30%" src="intro-dark.gif" alt="lang image here" />
+    <img id="light-mode-image" width="30%" src="intro-light.gif" alt="lang image here" />
 </p>
+  
 
 <h4 align="center">I'm sanish 👋.</h4>
 
