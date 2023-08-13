@@ -1,17 +1,9 @@
-<style>
-    @media (prefers-color-scheme: dark) {
-        #dark-mode-image {
-            display: block;
-        }
-        #light-mode-image {
-            display: none;
-        }
-}
-</style>
-
 <p align="center">
-    <img id="dark-mode-image" width="30%" src="intro-dark.gif" alt="lang image here" />
-    <img id="light-mode-image" width="30%" src="intro-light.gif" alt="lang image here" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="intro-dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="intro-light.gif">
+        <img width="30%" src="intro-light.gif" alt="intro image" />
+    </picture>
 </p>
   
 
@@ -34,3 +26,5 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanishrestha/)
 ## 👇 How to reach me?
 ✉️ Mail: ssanish321@gmail.com
+</body>
+</html>
