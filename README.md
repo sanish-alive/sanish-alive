@@ -11,14 +11,7 @@
 
 ## 🛠 Technology I Use
 <div align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg" height="40" width="52" title="python"  alt="python logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CS.svg" height="40" width="52" title="csharp" alt="csharp logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" height="40" width="52" title="java" alt="java logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" height="40" width="52" title ="javascript" alt="javascript logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" height="40" width="52" title="nodejs" alt="nodejs logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" height="40" width="52" title="reactjs" alt="reactjs logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Dark.svg" height="40" width="52" title="PHP" alt="php logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" height="40" width="52" title="Laravel" alt="laravel logo"  />
+    <img src="https://skillicons.dev/icons?i=python,cs,java,php,c,cpp,js,html,css,dotnet,django,flask,laravel,nodejs,react,mysql,mongodb,git,github" />
 </div>
 
 ## 🔍 Find me here!
