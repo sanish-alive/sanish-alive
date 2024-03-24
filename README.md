@@ -11,7 +11,7 @@
 
 ## 🛠 Technology I Use
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,dotnet,django,flask,laravel,nodejs,react,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,dotnet,django,flask,laravel,nodejs,react,mysql,mongodb,git" />
 </div>
 
 ## 🔍 Find me here!
