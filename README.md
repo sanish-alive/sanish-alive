@@ -1,4 +1,5 @@
-<img align="left" src="ratatui-spin-dark.gif">
+<img align="left" src="ratatui-spin-dark.gif#gh-dark-mode-only">
+<img align="left" src="ratatui-spin-light.gif#gh-light-mode-only">
 <br><br>
 
 - ⚙️ I use daily: `.php`, `.js`, `.python`, `c`
